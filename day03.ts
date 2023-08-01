@@ -98,11 +98,34 @@ console.log(`${famous_person} once said,\n${message_fp}`);
 //     console.log(`Dear ${item}, come to join a dinner tonight`);
 // }
 
+
 // For Loop Examples
 // for (let i = 0; i < 5; i++) {
 //     console.log(i);
 // }
 
-for (let i = 10; i > 0 ; i--) {
-    console.log(i);
-}
+// This exercise is for minus loop
+// for (let i = 5; i >= 2 ; i--) {
+//     console.log(i);
+// }
+
+// Table App Print Example
+// let tabNum = 5;
+// for (let i = 11; i <= 20; i++) {
+//     console.log(tabNum +" x " + i + " = " +(tabNum*i))
+// }
+
+// Break & Continue Examples in For Loop
+// for (let i = 0; i < 9; i++) {
+//     if (i == 6) {
+//         break;
+//     }
+//     console.log("I = " + i);
+// }
+
+// for (let i = 0; i <= 9; i++) {
+//     if (i == 6) {
+//         continue;
+//     }
+//     console.log("I = " + i);
+// }
